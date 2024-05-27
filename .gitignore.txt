@@ -1,0 +1,2 @@
+#ignore this folder
+.vs/T8(68977)_Nurzhibek
