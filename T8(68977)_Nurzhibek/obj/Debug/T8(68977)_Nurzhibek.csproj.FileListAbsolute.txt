@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\T8(68977)_Nurzhibek\T8(68977)_Nurzhibek\obj\Debug\T8(68977)_Nurzhibek.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\T8(68977)_Nurzhibek\T8(68977)_Nurzhibek\obj\Debug\T8_68977__Nurzhibek.Form1.resources
+C:\Users\user\source\repos\T8(68977)_Nurzhibek\T8(68977)_Nurzhibek\obj\Debug\T8_68977__Nurzhibek.Form2.resources
+C:\Users\user\source\repos\T8(68977)_Nurzhibek\T8(68977)_Nurzhibek\obj\Debug\T8(68977)_Nurzhibek.csproj.GenerateResource.cache
+C:\Users\user\source\repos\T8(68977)_Nurzhibek\T8(68977)_Nurzhibek\obj\Debug\T8(68977)_Nurzhibek.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\T8(68977)_Nurzhibek\T8(68977)_Nurzhibek\bin\Debug\T8_Nurzhibek.exe.config
+C:\Users\user\source\repos\T8(68977)_Nurzhibek\T8(68977)_Nurzhibek\bin\Debug\T8_Nurzhibek.exe
+C:\Users\user\source\repos\T8(68977)_Nurzhibek\T8(68977)_Nurzhibek\bin\Debug\T8_Nurzhibek.pdb
+C:\Users\user\source\repos\T8(68977)_Nurzhibek\T8(68977)_Nurzhibek\obj\Debug\T8_Nurzhibek.Properties.Resources.resources
+C:\Users\user\source\repos\T8(68977)_Nurzhibek\T8(68977)_Nurzhibek\obj\Debug\T8_Nurzhibek.exe
+C:\Users\user\source\repos\T8(68977)_Nurzhibek\T8(68977)_Nurzhibek\obj\Debug\T8_Nurzhibek.pdb
